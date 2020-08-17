@@ -1,5 +1,12 @@
 # Gatsby 中文设置教程
 
+## 教程原文
+教程原文博客在：[Gatsby 教程](https://kalasearch.cn/blog/gatsby-blog-setup-tutorial-with-netlify/)
+
+## 生成博客
+本文件夹中的 my-blog 即按下文步骤生成的代码，完整上下文请请阅读教程原文
+
+## 配置
 
 要开始构建一个 Gatsby 网站真的非常简单，请照以下步骤执行。本文的代码也放在 GitHub 上，欢迎参考，觉得有用的话也请帮忙加星: 
 
