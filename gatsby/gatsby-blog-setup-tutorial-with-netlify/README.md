@@ -64,7 +64,7 @@ Gatsby CLI version: 2.11.3
 
 这个命令会跑起来一个本地的 server，主要作用是让你可以在本地实时更新和开发你的网站。运行之后，它会默认在本地的 `8000` 端口跑起来一个 service，然后在浏览器访问 `http://localhost:8000/` 的话就可以看到你的网站了
 
-![跑起来的 Gatsby 网站](./gatsby-website.png)
+![跑起来的 Gatsby 网站](./first-gatsby-site.png)
 
 至此，你就可以在 `content/posts/` 中开始添加你的博客文章。
 
