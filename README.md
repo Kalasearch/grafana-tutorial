@@ -1,6 +1,6 @@
 # Grafana 中文教程
 
-文本原文发布在：https://kalasearch.cn/blog/grafana-with-prometheus-tutorial/
+文本教程原文发布在：https://kalasearch.cn/blog/grafana-with-prometheus-tutorial/
 
 
 ## 什么是 Grafana 
